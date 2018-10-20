@@ -1,4 +1,6 @@
 # KiwiBot
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FFogapod%2FKiwiBot.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FFogapod%2FKiwiBot?ref=badge_shield)
+
 <img align=right height=256 src=.github/avatar.png/>
 Bot is currently in early stage of development, but it's already usable and has several useful commands.
 
@@ -18,3 +20,7 @@ Requirements:
 * [aioredis python library](https://aioredis.readthedocs.io/en/v1.1.0)
 * [uvloop python library](https://uvloop.readthedocs.io)
 * running [redis server](https://redis.io) on default port
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FFogapod%2FKiwiBot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FFogapod%2FKiwiBot?ref=badge_large)
